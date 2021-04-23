@@ -1,0 +1,6 @@
+{
+    "name": "TMY start container",
+    "build" : {
+        "dockerfile": "Dockerfile"
+    },
+}
